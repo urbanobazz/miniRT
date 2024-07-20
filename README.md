@@ -3,6 +3,8 @@ A simple Ray-Tracing program written in C and capable of rendering scenes compos
 
 ![Example image](readme/multi-object.png)
 
+Project by [ubazzane](https://github.com/urbanobazz) and [lodemetz](https://github.com/lodeme).
+
 # Usage
 
 - Compile the code using make:
