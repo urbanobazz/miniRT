@@ -11,7 +11,7 @@ A simple Ray-Tracing program written in C and capable of rendering scenes compos
 ```
 - Run the executable with one of the scenes located at /scenes
 ```bash
-/> ./miniRT multi-object.rt
+/> ./miniRT scenes/multi-object.rt
 ```
 
 - Feel free to play around and change the parameters in the .rt files to see how it affects the final render. Here are a couple things you can do:
